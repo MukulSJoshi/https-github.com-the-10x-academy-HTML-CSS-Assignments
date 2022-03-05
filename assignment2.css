@@ -1,0 +1,35 @@
+/* Our CSS file. */
+.app-header{
+    height: 100px;
+    padding: 4px;
+    width: 25%;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+}
+.app-nav-bar{
+    height: 20px;
+    padding: 10px 0px;
+    width: 100%;
+}
+.app-nav-link{
+    width: 24%;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    line-height: 20px;
+}
+.app-search-form{
+    float: right;
+    height: 100px;
+    width: 100px;
+}
+.app-nav-link:hover{
+    text-decoration: underline;
+}
+.app-nav-logs{
+    background-image: url();
+}
+.app-logo-container{
+
+}
